@@ -1,5 +1,5 @@
 {
-  "name": "prompt-sync",
+  "name": "laboratorio-04-camilazgomez",
   "version": "1.0.0",
   "description": "",
   "main": "counter.js",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ICC3103-202110/laboratorio-04-camilazgomez/issues"
   },
-  "homepage": "https://github.com/ICC3103-202110/laboratorio-04-camilazgomez#readme"
+  "homepage": "https://github.com/ICC3103-202110/laboratorio-04-camilazgomez#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
