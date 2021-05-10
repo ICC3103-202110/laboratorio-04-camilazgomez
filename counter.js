@@ -1,5 +1,5 @@
 // according to NodeJs literature, first you must run command
-// "npm install prompt-sync" on terminal
+// "npm install" on terminal
 
 const prompt = require('prompt-sync')({sigint:true});
 
@@ -23,7 +23,7 @@ function app(counter) {
     counter=update(msg,counter);
     }
 }
-//suponemos inicializacion en 0
+
 app(0);
 
 
